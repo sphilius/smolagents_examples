@@ -2,8 +2,11 @@ smolagents
 ollama
 huggingface_hub
 litellm
-markdownify 
+markdownify
 duckduckgo-search
 transformers
 beautifulsoup4
 requests
+openai
+python-dotenv
+pydantic
